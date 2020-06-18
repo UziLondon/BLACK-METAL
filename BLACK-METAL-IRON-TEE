@@ -1,0 +1,257 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>BLACK METAL "IRON" TEE</title>
+  <meta name="BLACK METAL" content="WECLOME TO BLACK METAL">
+  <meta name="BLK MTL" content="WELCOME TO BLACK METAL">
+
+  <link rel="" href="">
+
+</head>
+
+<body>
+
+<div class="area">⚠ BLACK METAL ⚠</div>
+
+
+
+<img class="shirt1" src="https://i.ibb.co/fppNjxw/tranprnt-tee.png">
+
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"class="form1">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="XCPD5T6QV8PTQ">
+<table>
+<tr><td><input type="hidden" name="on0" value="BLACK METAL "IRON" TEE SIZES">BLACK METAL "IRON" TEE SIZES</td>
+</tr>
+<tr ><td><select name="os0"  class="formselect1" >
+	<option value="S">S $14.99 USD</option>
+	<option value="M">M $14.99 USD</option>
+	<option value="L">L $14.99 USD</option>
+	<option value="XL">XL $14.99 USD</option>
+</select> </td></tr>
+</table>
+<input type="hidden" name="currency_code" value="USD">
+<input type="image" class="buynowyuh"  src="https://i.ibb.co/v3SDJTR/buy-btn.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+
+</body>
+</html>
+
+
+
+
+<a href="blvckmetal.xyz/BLACK-METAL-ELECTRICITY-TEE.html" class="enter" ><img class="arrow" src="https://i.ibb.co/g9PdmZH/aroowss.png"></a>
+
+
+
+
+<style>
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+body {
+ background: #111;
+ font-family: "Open Sans",  Impact;
+}
+
+.arrow {
+  padding-left: 52vw;
+  height:20vw;
+  position:relative;
+  top: -32vw;
+
+}
+
+.area {
+  text-align: center;
+  font-size: 6.5em;
+  color: #fff;
+  letter-spacing: -7px;
+  font-weight: 700;
+  text-transform: uppercase;
+  animation: blur .75s ease-out infinite;
+  text-shadow: 0px 0px 5px #fff, 0px 0px 7px #fff;
+}
+
+.form1{
+  padding-left: 27.6vw;
+  color: white;
+  font-family: "Open Sans",  Impact;
+  position: relative;
+  top: 0vw;
+
+}
+
+.shirt1 {
+  height: 28vw;
+  padding-left: 20vw;
+  padding-top: 2vw;
+}
+
+.shirt2 {
+  height: 26vw;
+  padding-left: 56vw;
+  position: relative;
+  top: -35vw;
+
+}
+
+
+.buynowyuh {
+    height: 3.5vw;
+    position: relative;
+    right:1.3vw;
+
+}
+
+
+.form2{
+  padding-left: 63.5vw;
+  color: white;
+  font-family: "Open Sans",  Impact;
+  position: relative;
+  top: -33.8vw;
+
+}
+
+.buynowyuh2 {
+    height: 3.5vw;
+    position: relative;
+    right:1.3vw;
+
+}
+
+.enter {
+  text-decoration: none;
+
+}
+
+@keyframes blur {
+  from {
+    text-shadow:0px 0px 10px #fff,
+      0px 0px 10px #fff,
+      0px 0px 25px #fff,
+      0px 0px 25px #fff,
+      0px 0px 25px #fff,
+      0px 0px 25px #fff,
+      0px 0px 25px #fff,
+      0px 0px 25px #fff,
+      0px 0px 50px #fff,
+      0px 0px 50px #fff,
+      0px 0px 50px #7B96B8,
+      0px 0px 150px #7B96B8,
+      0px 10px 100px #7B96B8,
+      0px 10px 100px #7B96B8,
+      0px 10px 100px #7B96B8,
+      0px 10px 100px #7B96B8,
+      0px -10px 100px #7B96B8,
+      0px -10px 100px #7B96B8;
+  }
+}
+
+/* Mobile Optimazation */
+
+@media screen and (max-width: 992px) {
+
+  .form1{
+    padding-left: 14.5vw;
+    color: white;
+    font-family: "Open Sans",  Impact;
+    position: relative;
+    top: 4vw;
+    font-size: 5vw;
+
+
+
+  }
+
+  .shirt1 {
+    height: 85vw;
+    padding-left: 6vw;
+    padding-top: 9vw;
+  }
+
+  .shirt2 {
+    height: 85vw;
+    padding-left: 6.5vw;
+    position: relative;
+    top: 5vw;
+
+  }
+
+
+  .buynowyuh {
+      height: 15vw;
+      position: relative;
+      right:-6.4vw;
+      top:3vw;
+
+
+  }
+
+  .arrow {
+    padding-left: 28vw;
+    height:45vw;
+    position:relative;
+    top: 13vw;
+
+  }
+
+
+
+.formselect1{
+  position: relative;
+  left: 18vw;
+  font-size: 4.3vw;
+
+}
+
+  .form2{
+    padding-left: 14.5vw;
+    color: white;
+    font-family: "Open Sans",  Impact;
+    position: relative;
+    top: 5.4vw;
+    font-size: 5vw;
+
+
+
+
+  }
+
+  .buynowyuh2 {
+    height: 15vw;
+    position: relative;
+    right:-6.4vw;
+
+
+  }
+
+
+
+  .formselect2{
+    position: relative;
+    left: 18vw;
+    font-size: 4.3vw;
+
+  }
+
+
+
+
+
+
+
+}
+
+
+
+
+
+</style>
